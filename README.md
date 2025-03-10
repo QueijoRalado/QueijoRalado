@@ -1,4 +1,4 @@
-# Salve, tudo jóia?
+# Eae, bem-vindo ao meu repositório!
 
 <!--
 **QueijoRalado/QueijoRalado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
