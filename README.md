@@ -1,6 +1,8 @@
 # Bem que podia ter batido antes de entrar, né...?
+
+Salve, é um prazer te receber aqui! Por favor, fique a vontade e pegue um copo de suco de limão, por minha conta.
+
 <hr>
-Salve, esse 
 
 <!--
 **QueijoRalado/QueijoRalado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
