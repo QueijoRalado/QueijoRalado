@@ -1,8 +1,12 @@
 # Bem que podia ter batido antes de entrar, né...?
 
-Salve, é um prazer te receber aqui! Por favor, fique a vontade e pegue um copo de suco de limão, por minha conta.
+Salve, é um prazer te receber aqui! Por favor, fique a vontade e pegue um copo de suco de limão, é por minha conta.
 
-<hr>
+## Quem sou eu?
+
+Apesar da pergunta parecer filosófica, não é nada difícil de responder, na verdade!
+
+Sou o Felipe, tenho 
 
 <!--
 **QueijoRalado/QueijoRalado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
