@@ -6,8 +6,9 @@ Salve, é um prazer te receber aqui! Por favor, fique a vontade e pegue um copo 
 
 Apesar da pergunta parecer filosófica, não é nada difícil de responder, na verdade!
 
-Sou o Felipe, tenho 
+Sou o Felipe Gonçalves de Lima, tenho 17 anos e moro na cidade de Sorocaba. Estudo Desenvolvimento de Sistemas desde o ano passado, pretendo seguir a profissão de programador, e o mais importante; sempre buscar aprender mais!
 
+<img>
 <!--
 **QueijoRalado/QueijoRalado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
