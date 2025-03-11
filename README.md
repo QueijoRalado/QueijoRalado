@@ -8,7 +8,7 @@ Apesar da pergunta parecer filosófica, não é nada difícil de responder, na v
 
 Sou o Felipe Gonçalves de Lima, tenho 17 anos e moro na cidade de Sorocaba. Estudo Desenvolvimento de Sistemas desde o ano passado, pretendo seguir a profissão de programador, e o mais importante; sempre buscar aprender mais!
 
-<a href="#" title="Gmail">
+<a href="mailto:felipe.gdelima10@gmail.com" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
 <!--
 **QueijoRalado/QueijoRalado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
