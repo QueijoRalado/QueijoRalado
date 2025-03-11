@@ -13,11 +13,12 @@ Sou o Felipe Gonçalves de Lima, tenho 17 anos e moro na cidade de Sorocaba. Est
 <p align="left">
 <a href="mailto:felipe.gdelima10@gmail.com" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
-  felipe.gdelima10@gmail.com
+   - felipe.gdelima10@gmail.com
 </p>
 <p aling="left">
 <a href="https://wa.me/5515997656065" title="WhatsApp" target="_blank">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP" alt="WhatsApp"/></a>
+   - +55 (15) 997656065
 </p>
 <!--
 **QueijoRalado/QueijoRalado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
